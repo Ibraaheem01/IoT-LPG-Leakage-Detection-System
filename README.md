@@ -38,3 +38,5 @@ An advanced, automated dual-zone Liquefied Petroleum Gas (LPG) leakage detection
 ├── schematics/
 │   └── circuit-diagram.png # Hardware wiring and schematic layout
 └── README.md             # Project documentation
+
+![IoT Dual-Zone LPG Leakage System Schematic](iot-schematic.png)
